@@ -1,5 +1,5 @@
-# Vanadium
-A traditional proxy site for use in combating web filters.
+# Unsecurly
+Fuck the school filters.
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/titaniumnetwork-dev/Vanadium/tree/main)
 
@@ -34,6 +34,4 @@ npm start
 - A work-in-progress arcade featuring classic Adobe Flash games, all working thanks to Ruffle.rs.
 
 
-## Copyright Takedown Requests
 
-Simply create an issue on this repository and we will assist you as soon as possible. If that doesn't suit you, then send an e-mail to nullnvoid@mailfence.com and I can work with you directly.
