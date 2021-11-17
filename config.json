@@ -4,6 +4,6 @@
     "prefix": "/search/",
     "codec": "xor",
     "localAddresses": [],
-    "blockedHostnames": [ "pornhub.com", "rule34.xxx", "fortniteburger.net", ]
+    "blockedHostnames": [ "pornhub.com", "rule34.xxx", "fortniteburger.net" ]
     
 }
