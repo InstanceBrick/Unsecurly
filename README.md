@@ -6,8 +6,8 @@ Fuck the school filters.
 ## Setup
 
 ```sh
-git clone https://github.com/titaniumnetwork-dev/Vanadium
-cd Vanadium
+git clone https://github.com/InstanceBrick/Unsecurly
+cd Unsecurly
 npm start
 ```
 
