@@ -1,7 +1,7 @@
 # Unsecurly
 Fuck the school filters.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/titaniumnetwork-dev/Vanadium/tree/main)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/InstanceBrick/Unsecurly/tree/main)
 
 ## Setup
 
