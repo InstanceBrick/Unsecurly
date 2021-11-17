@@ -1,7 +1,7 @@
 {
-    "name": "vanadium",
+    "name": "unsecurly",
     "version": "1.0.0",
-    "description": "A powerful web-proxy site powered by Corrosion",
+    "description": "End School censorship!",
     "main": "server.js",
     "scripts": {
         "test": "node server.js",
@@ -21,9 +21,9 @@
     "author": "LinuxTerm and LQ16",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/titaniumnetwork-dev/vanadium/issues"
+        "url": "https://github.com/InstanceBrick/Unsecurly/issues"
     },
-    "homepage": "https://github.com/titaniumnetwork-dev/vanadium#readme",
+    "homepage": "https://github.com/InstanceBrick/Unsecurly/unsecurly#readme",
     "dependencies": {
         "corrosion": "^1.0.0",
         "express": "^4.17.1",
