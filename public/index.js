@@ -1,3 +1,17 @@
+function settings() {
+    tab();
+    function tab() {
+        const input = document.querySelector('.tab input');
+        document.querySelector('.tab button[data-action=title]').addEventListener('click', () => {
+            if (!input.value) return false;
+            changeTitle(input.value);
+        });
+        document.querySelector('.tab button[data-action=icon]').addEventListener('click', () => {
+            if (!input.value) return false;
+            changeFavicon(input.value);
+        });
+    };
+
 function changeTitle(val = '') {
     document.title = val;
     return localStorage.setItem('__tab_title', encodeURIComponent(btoa(val)));
