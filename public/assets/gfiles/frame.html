@@ -4,33 +4,11 @@
   
 
 <body>
+  <title>Extra</title>
     <h1 style="color: green">
-        Spoof Website Title
+       COMING SOON!
     </h1>
-      <label for="ssn" style="color: green">Title:</label>
-<input type="text" id="ssn" inputmode="numeric" minlength="1" maxlength="12"
-    pattern="(?!000)([0-6]\d{2}|7([0-6]\d|7[012]))([ -])?(?!00)\d\d\3(?!0000)\d{4}"
-    required autocomplete="off">
-<br>
-
-      
-    <p style="color: green">
-        Click on the button to change the page title
-    </p>
-      
-    <button onclick="changePageTitle()">
-        Change Page Title
-    </button>
-      
-    <script type="text/javascript">
-        var ssn = document.getElementById("ssn");
- 
-        function changePageTitle() {
-         
-            document.title = ssn.value;
-    alert(document.title); 
-        }
-    </script>
+  
 </body>
   
 </html>
