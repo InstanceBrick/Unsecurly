@@ -16,7 +16,7 @@ function isURL(a) {
 // Page Detection Begin
 try {
     var search = document.getElementById("search-bar"),
-        searchprovider = `https://duckduckgo.com/`,
+        searchprovider = `https://google.com/`,
         suggelem = document.getElementById("searchsuggestions"),
         elemadd = (a, b, c) => Object.assign(b.appendChild(document.createElement(a)), c);
     // Search Suggestions
