@@ -5,3 +5,13 @@
 <br>
 <label for="ssn">Value:</label>
 <span id="current"></span>
+<script>
+                var ssn = document.getElementById("ssn");
+var current = document.getElementById("current");
+
+ssn.oninput = function(event) {
+  current.textContent = ssn.value;
+}
+
+     
+<script>
